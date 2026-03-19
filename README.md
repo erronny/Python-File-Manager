@@ -121,4 +121,4 @@ This project is open-source and free to use.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Ronny
+Made with ❤️ by codewithronny.com and techorbeet.com
