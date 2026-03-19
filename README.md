@@ -38,8 +38,8 @@ It allows you to manage your server files directly from the browser with advance
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/file-manager.git
-cd file-manager
+git clone https://github.com/erronny/Python-File-Manager.git
+cd Python-File-Manager
 ```
 
 ### 2. Install Dependencies
