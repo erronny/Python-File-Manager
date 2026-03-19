@@ -51,7 +51,7 @@ pip install flask
 ### 3. Run the Server
 
 ```bash
-python file_organizer.py
+python file_manager.py
 ```
 
 ### 4. Open in Browser
